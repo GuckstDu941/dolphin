@@ -48,3 +48,4 @@ In the future, if the project targets a newer version of Android, or use newer v
 [package-icon]: http://i.imgur.com/NUpkAH8.png
 [gradle]: http://i.imgur.com/dXIH6o3.png
 [shortcut]: http://i.imgur.com/eCWP4Yy.png
+
